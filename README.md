@@ -10,7 +10,7 @@
    1: Lệnh Get-childitem là câu lệnh dùng để tìm ví trịa và danh sách các filr trong FODER
    2: Lệnh Select-String là câu lệnh dùng để chọn nội dung mà mình tìm kiếm trong tệp mà mình đã chọn
 
-## Phần 2: Hoàn thiện
+## Phần 2: Hoàn thiện 
 
 Câu lệnh PowerShell chuẩn để lọc các dòng chứa chữ "ERROR" từ file access.log là
 
