@@ -8,7 +8,7 @@
 
  - Phân biệt 2 câu lệnh
 
-   1: Lệnh Get-childitem là câu lệnh dùng để tìm ví trịa và danh sách các filr trong FODER
+   1: Lệnh Get-childitem là câu lệnh dùng để tìm ví trí và danh sách các fire trong FODER
 
     2: Lệnh Select-String là câu lệnh dùng để chọn nội dung mà mình tìm kiếm trong tệp mà mình đã chọn
 
